@@ -1,7 +1,7 @@
 // @description GET goals
 // @route GET /api/goals
 const getGoals = (req, res) => {
-    res.status(200).json({message:'Its up!'})
+    res.status(200).json({message:'Got Em!!'})
 }
 
 // @description set goals
